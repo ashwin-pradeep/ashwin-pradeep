@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashwin-pradeep
+- 👋 Hi, I’m Ashwin Pradeep
 - 👀 I’m passionate in Coding Js,playing Valorant 
 - 🌱 I’m currently learning and developing applications using Reactjs,Redux,TailwindCSS,Material-UI
 - 💞️ I’m looking to collaborate on Open-Source Projects
