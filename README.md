@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashwin Pradeep
 - 👀 I’m passionate in Coding Js and playing Chess
-- 🌱 I’m have worked and  developed applications using Reactjs, Redux, TailwindCSS, Material-UI, SCSS, BEM - standards, AEM-UI integration, 
+- 🌱 I’m have worked and  developed applications using Javascript, jQuery, Reactjs, Redux, TailwindCSS, Material-UI, SCSS, BEM - standards, AEM-UI integration, 
 - 💞️ I’m looking to collaborate on Open-Source Projects
 - 📫 How to reach me ashwin.pradeep9713@gmail.com
 <!---
